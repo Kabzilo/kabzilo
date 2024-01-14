@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on coding 
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I can read more languages than I can speak.
 
 <!---
 Kabzilo/Kabzilo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
